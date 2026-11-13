@@ -19,7 +19,7 @@ piz.denibmoc piznu
 :pmud eht morf sledom eliforp eht lla tcartxe tsriF .ppA yrotcaF CTM eht no DITCEJORP eht gnignahc morf draob a eucser oT
 
 ```
-username@machine: ./extract_models.py
+yp.sledom_tcartxe/. :enihcam@emanresu
 ```
 you should then have a directory of **extracted_models**
 ```
@@ -41,60 +41,61 @@ nosj.tluafeD_05              nosj.X708K_73          nosj.X038K_42               
 
 :ledom esab ruoy dnif ot selif ledom eht lla nacs txeN
 ```
-username@machine: ./scan_models.py
+yp.sledom_nacs/. :enihcam@emanresu
 ```
 ```
-31_K848X.json                  | K848X      | TK_MTC_32_ROX_H_UK_Q_BT   | "720P"" | panel_15   | S2G7"
-            }
-32_CommonBaseCompositor.json   | N/A        | N/A                       | N/A    | N/A        | N/A
-33_Base.json                   | K845X      | TK_MTC_40_ROX_F_UK        | "1080P"" | panel_10   | S1VN"
-            }
-34_K834X.json                  | K834X      | TK_MTC_40_ROX_F_UK        | "1080P"" | panel_10   | S1S7"
-            }
-35_K835X.json                  | K835X      | TK_MTC_40_ROX_F_DE        | "1080P"" | N/A        | S1S8"
-            }
-36_K843X_PROJ_30.json          | N/A        | N/A                       | N/A    | N/A        | N/A
-37_K807X.json                  | K807X      | TK_MTC_32_ROX_H_UK        | "720P"" | panel_2    | S180"
-            }
-38_K828X.json                  | K828X      | TK_MTC_24_ROX_H_UK        | "720P"" | panel_1    | S1PW"
-            }
-39_K813X.json                  | K813X      | TK_MTC_43_ROX_F_DE        | "1080P"" | panel_4    | S186"
-            }
-40_K829X.json                  | K829X      | TK_MTC_32_ROX_H_UK        | "720P"" | panel_2    | S1PX"
-            }
-41_K812X.json                  | K812X      | TK_MTC_40_ROX_F_DE        | "1080P"" | panel_3    | S185"
-            }
-42_K852X.json                  | K852X      | TK_MTC_40_ROX_F_UK_1in1   | "1080P"" | panel_14   | S2J6"
-            }
-43_K812X_PROJ_32.json          | N/A        | N/A                       | N/A    | N/A        | N/A
-44_K808X_PROJ_31.json          | N/A        | N/A                       | N/A    | N/A        | N/A
-45_Base_generic.json           | K809X      | TK_MTC_43_ROX_F_UK        | "1080P"" | panel_4    | S182"
-            }
-46_BaseUK.json                 | K846X      | TK_MTC_32_ROX_H_UK        | "720P"" | N/A        | S1VT"
-            }
-47_K850X.json                  | K850X      | TK_MTC_32_ROX_H_DE_Q_BT   | "720P"" | panel_15   | S2J4"
-            }
-48_K849X.json                  | K849X      | TK_MTC_43_ROX_F_UK_1in1   | "1080P"" | panel_16   | S2HE"
-            }
-49_K818X.json                  | K818X      | TK_MTC_32_ROX_H_AU        | "720P"" | panel_2    | S1EE"
-            }
-50_Default.json                | K808X      | TK_MTC_40_ROX_F_UK        | "1080P"" | panel_3    | S181"
-            }
-51_K830X.json                  | K830X      | N/A                       | "1080P"" | panel_3    | S1PY"
-            }
-52_BaseUK.json                 | N/A        | N/A                       | N/A    | N/A        | N/A
-53_K810X.json                  | K810X      | TK_MTC_24_ROX_H_DE        | "720P"" | panel_1    | S183"
-            }
-54_Base_generic_common.json    | N/A        | N/A                       | "1080P"" | N/A        | N/A
-55_K843X.json                  | K843X      | TK_MTC_40_ROX_F_UK        | "1080P"" | panel_7    | S1TT"
-            }
-56_CommonBaseEU.json           | N/A        | N/A                       | N/A    | N/A        | N/A
-57_Base_generic_v2.json        | N/A        | N/A                       | N/A    | N/A        | N/A
-58_Base.json                   | K806X      | TK_MTC_24_ROX_H_UK        | "720P"" | panel_1    | S17Y"
-            }
-59_Base.json                   | K811X      | TK_MTC_32_ROX_H_DE        | 32"    | panel_2    | S184"
-            }
-60_K842X.json                  | K842X      | TK_MTC_24_ROX_H_UK        | 24"    | panel_9    | S1TS"
+"7G2S |   51_lenap | ""P027" |   TB_Q_KU_H_XOR_23_CTM_KT |      X848K |                  nosj.X848K_13
+}            
+A/N |        A/N |    A/N |                       A/N |        A/N |   nosj.rotisopmoCesaBnommoC_23
+"NV1S |   01_lenap | ""P0801" |        KU_F_XOR_04_CTM_KT |      X548K |                   nosj.esaB_33
+}            
+"7S1S |   01_lenap | ""P0801" |        KU_F_XOR_04_CTM_KT |      X438K |                  nosj.X438K_43
+}            
+"8S1S |        A/N | ""P0801" |        ED_F_XOR_04_CTM_KT |      X538K |                  nosj.X538K_53
+}            
+A/N |        A/N |    A/N |                       A/N |        A/N |          nosj.03_JORP_X348K_63
+"081S |    2_lenap | ""P027" |        KU_H_XOR_23_CTM_KT |      X708K |                  nosj.X708K_73
+}            
+"WP1S |    1_lenap | ""P027" |        KU_H_XOR_42_CTM_KT |      X828K |                  nosj.X828K_83
+}            
+"681S |    4_lenap | ""P0801" |        ED_F_XOR_34_CTM_KT |      X318K |                  nosj.X318K_93
+}            
+"XP1S |    2_lenap | ""P027" |        KU_H_XOR_23_CTM_KT |      X928K |                  nosj.X928K_04
+}            
+"581S |    3_lenap | ""P0801" |        ED_F_XOR_04_CTM_KT |      X218K |                  nosj.X218K_14
+}            
+"6J2S |   41_lenap | ""P0801" |   1ni1_KU_F_XOR_04_CTM_KT |      X258K |                  nosj.X258K_24
+}            
+A/N |        A/N |    A/N |                       A/N |        A/N |          nosj.23_JORP_X218K_34
+A/N |        A/N |    A/N |                       A/N |        A/N |          nosj.13_JORP_X808K_44
+"281S |    4_lenap | ""P0801" |        KU_F_XOR_34_CTM_KT |      X908K |           nosj.cireneg_esaB_54
+}            
+"TV1S |        A/N | ""P027" |        KU_H_XOR_23_CTM_KT |      X648K |                 nosj.KUesaB_64
+}            
+"4J2S |   51_lenap | ""P027" |   TB_Q_ED_H_XOR_23_CTM_KT |      X058K |                  nosj.X058K_74
+}            
+"EH2S |   61_lenap | ""P0801" |   1ni1_KU_F_XOR_34_CTM_KT |      X948K |                  nosj.X948K_84
+}            
+"EE1S |    2_lenap | ""P027" |        UA_H_XOR_23_CTM_KT |      X818K |                  nosj.X818K_94
+}            
+"181S |    3_lenap | ""P0801" |        KU_F_XOR_04_CTM_KT |      X808K |                nosj.tluafeD_05
+}            
+"YP1S |    3_lenap | ""P0801" |                       A/N |      X038K |                  nosj.X038K_15
+}            
+A/N |        A/N |    A/N |                       A/N |        A/N |                 nosj.KUesaB_25
+"381S |    1_lenap | ""P027" |        ED_H_XOR_42_CTM_KT |      X018K |                  nosj.X018K_35
+}            
+A/N |        A/N | ""P0801" |                       A/N |        A/N |    nosj.nommoc_cireneg_esaB_45
+"TT1S |    7_lenap | ""P0801" |        KU_F_XOR_04_CTM_KT |      X348K |                  nosj.X348K_55
+}            
+A/N |        A/N |    A/N |                       A/N |        A/N |           nosj.UEesaBnommoC_65
+A/N |        A/N |    A/N |                       A/N |        A/N |        nosj.2v_cireneg_esaB_75
+"Y71S |    1_lenap | ""P027" |        KU_H_XOR_42_CTM_KT |      X608K |                   nosj.esaB_85
+}            
+"481S |    2_lenap |    "23 |        ED_H_XOR_23_CTM_KT |      X118K |                   nosj.esaB_95
+}            
+"ST1S |    9_lenap |    "42 |        KU_H_XOR_42_CTM_KT |      X248K |                  nosj.X248K_06
+
 ```
 
 **epyt_lenap** dna **edomtuptuo** selbairav vne elif yp.hctap-dnan eht etadpU
