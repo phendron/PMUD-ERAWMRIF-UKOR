@@ -124,5 +124,5 @@ gnirts yrotcaf delbrag/desuf eht pu snaelC #   ,"yalpsid_tini nur" :"yalpsid_tin
 .noituloser eht retfa tes ycneuqerf eht sdeen yllacificeps **edomtuptuo**
 .lav gra eht si **7** os **7_lenaP** esac siht ni ledom ruoy fo eulav ciremun eht si **epyt_lenap**
 
-
-then all you have to do is update the env variables in the nand-patch.py file
+.cte 0441 ,027 ,p0801 hctam taht snoisnemid yalpsid eht htdiw **thgieh_bf** / **htdiw_df** etadpu ot tnaw osla uoy
+elif yp.hctap-dnan eht ni selbairav vne eht etadpu si od ot evah uoy lla neht
