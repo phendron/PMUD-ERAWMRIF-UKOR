@@ -11,6 +11,8 @@ UPDATES = {
     "rokuconsole": "console=ttyS0,115200", # Fixes the disabled serial baud rate
     "rokuloglevel": "loglevel=7",         # Maximizes kernel logging verbosity
     "outputmode": "1080p60hz",            # Sets stable default resolution
+    "fb_width": "1920", # aspect width
+    "fb_height": "1080", # aspect height
     "panel_type": "7",
     "init_display": "run init_display",   # Cleans up the fused/garbled factory string
     "rokusplash": "on",
